@@ -10,7 +10,7 @@ Once you've gone through this and sent us some answers, we'll have someone revie
 
 # Questions
 - What's your proudest achievement? Something you've done in work, some random side project, code or otherwise. Just make sure you explain what it is that makes you so proud of it.
-- What's the most interesting technical article you've read recently and why? Convince us that we really need to check it out.
+- What's the most interesting technical article you've read recently? What did you like about it and why should we take a look at it?
 - Write some code that will flatten an array of arbitrarily nested arrays of integers into a flat array of integers. e.g. `[[1,2,[3]],4]` -> `[1,2,3,4]`. This is an opportunity to show us your understanding of computer science fundamentals. Avoid using built-in language methods like `Array.flatten`
 - Given a file (`rugby_athletes.json` in this directory), containing a JSON encoded list of Squads and Athletes, plus a squad ID, output an entirely new squad of 15 for a rugby team using the following criteria
   - No players in the team should be injured
