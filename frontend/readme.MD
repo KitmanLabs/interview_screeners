@@ -10,6 +10,6 @@ Once you've gone through this and sent us some answers, we'll have someone revie
 
 # Questions
 - What's your proudest achievement? Something you've done in work, some random side project, code or otherwise. Just make sure you explain what it is that makes you so proud of it.
-- What's the most interesting technical article you've read recently and why? Convince us that we really need to check it out.
+- What's the most interesting technical article you've read recently? What did you like about it and why should we take a look at it?
 - Write some code that will flatten an array of arbitrarily nested arrays of integers into a flat array of integers. e.g. `[[1,2,[3]],4]` -> `[1,2,3,4]`. This is an opportunity to show us your understanding of computer science fundamentals. Avoid using built-in language methods like `Array.flatten`
 - In the same directory as this file you will find a file named `olympics_2008_medalists.json` which lists all athletic medalists from the 2008 Beijing Olympics. Write a web application which parses this data, and ranks countries by total medal win in descending order. Display the total medal count per country, as well as as total gold, silver and bronze per country. Please complete this task as if you intend shipping it to production. Tests are required. Style the application. Ultimately the result should look and feel good to use.
