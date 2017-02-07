@@ -11,7 +11,6 @@ Once you've gone through this and sent us some answers, we'll have someone revie
 # Questions
 - What's your proudest achievement? Something you've done in work, some random side project, code or otherwise. Just make sure you explain what it is that makes you so proud of it.
 - What's the most interesting technical article you've read recently? What did you like about it and why should we take a look at it?
-- Write some code that will flatten an array of arbitrarily nested arrays of integers into a flat array of integers. e.g. [[1,2,[3]],4] -> [1,2,3,4]. This is an opportunity to show us your understanding of computer science fundamentals. Avoid using built-in language methods like `collection.joined()`.
 - Have a look at this Xcode playground [AlbumsArtists.swift](https://github.com/KitmanLabs/interview_screeners/blob/master/mobile-ios/AlbumsArtists.swift) (open with latest Xcode 8). You will see that it creates a table view controller showing a list of Artists and Albums, based on hard-coded data.
   - What do you find interesting about this code?
   - Modify this code so that it runs as an iOS app in the simulator and reads data from this JSON file [albums.json](https://github.com/KitmanLabs/interview_screeners/blob/master/mobile-ios/albums.json).
