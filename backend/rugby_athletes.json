@@ -2,7 +2,6 @@
   "athletes": [
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/0.jpg",
-      "squad_id": 5,
       "country": "Korea (North)",
       "last_played": "Sun Mar 15 2015 15:58:00 GMT+0000 (UTC)",
       "name": "Meagan Gill",
@@ -12,7 +11,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/1.jpg",
-      "squad_id": 2,
       "country": "Falkland Islands (Malvinas)",
       "last_played": "Thu Mar 05 2015 19:46:18 GMT+0000 (UTC)",
       "name": "Hillary Wiggins",
@@ -22,7 +20,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/2.jpg",
-      "squad_id": 8,
       "country": "Bulgaria",
       "last_played": "Fri Sep 11 2015 14:52:35 GMT+0000 (UTC)",
       "name": "Bright Hicks",
@@ -32,7 +29,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/3.jpg",
-      "squad_id": 6,
       "country": "Mauritania",
       "last_played": "Mon May 18 2015 04:30:22 GMT+0000 (UTC)",
       "name": "Harriett Schroeder",
@@ -42,7 +38,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/4.jpg",
-      "squad_id": 8,
       "country": "Somalia",
       "last_played": "Sun Apr 19 2015 16:25:42 GMT+0000 (UTC)",
       "name": "Willa Winters",
@@ -52,7 +47,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/5.jpg",
-      "squad_id": 9,
       "country": "Palau",
       "last_played": "Sun Mar 15 2015 13:51:03 GMT+0000 (UTC)",
       "name": "Marsh Armstrong",
@@ -62,7 +56,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/6.jpg",
-      "squad_id": 5,
       "country": "Jordan",
       "last_played": "Tue Jun 02 2015 10:19:30 GMT+0000 (UTC)",
       "name": "Conley Odonnell",
@@ -72,7 +65,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/7.jpg",
-      "squad_id": 0,
       "country": "Tanzania",
       "last_played": "Fri Apr 24 2015 19:54:47 GMT+0000 (UTC)",
       "name": "Gallagher Grimes",
@@ -82,7 +74,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/8.jpg",
-      "squad_id": 9,
       "country": "Netherlands Antilles",
       "last_played": "Fri Jan 23 2015 03:14:38 GMT+0000 (UTC)",
       "name": "Britney Ballard",
@@ -92,7 +83,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/9.jpg",
-      "squad_id": 2,
       "country": "South Africa",
       "last_played": "Sat May 23 2015 10:33:19 GMT+0000 (UTC)",
       "name": "Edwards Robinson",
@@ -102,7 +92,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/10.jpg",
-      "squad_id": 9,
       "country": "Finland",
       "last_played": "Fri Jun 26 2015 05:44:21 GMT+0000 (UTC)",
       "name": "Claudine Noel",
@@ -112,7 +101,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/11.jpg",
-      "squad_id": 9,
       "country": "Saint Lucia",
       "last_played": "Thu Jan 01 2015 12:34:11 GMT+0000 (UTC)",
       "name": "Bridgette Kelly",
@@ -122,7 +110,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/12.jpg",
-      "squad_id": 3,
       "country": "Congo",
       "last_played": "Fri Sep 04 2015 15:49:06 GMT+0000 (UTC)",
       "name": "Caitlin House",
@@ -132,7 +119,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/13.jpg",
-      "squad_id": 0,
       "country": "Barbados",
       "last_played": "Thu Jan 01 2015 18:50:57 GMT+0000 (UTC)",
       "name": "Heather Hyde",
@@ -142,7 +128,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/14.jpg",
-      "squad_id": 5,
       "country": "Antarctica",
       "last_played": "Tue May 12 2015 08:27:11 GMT+0000 (UTC)",
       "name": "Monique Heath",
@@ -152,7 +137,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/15.jpg",
-      "squad_id": 7,
       "country": "Virgin Islands (British)",
       "last_played": "Fri Feb 13 2015 06:33:21 GMT+0000 (UTC)",
       "name": "Ruthie Harrington",
@@ -162,7 +146,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/16.jpg",
-      "squad_id": 3,
       "country": "Dominican Republic",
       "last_played": "Thu Mar 26 2015 04:53:29 GMT+0000 (UTC)",
       "name": "Courtney Wells",
@@ -172,7 +155,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/17.jpg",
-      "squad_id": 6,
       "country": "Bermuda",
       "last_played": "Wed Mar 18 2015 09:04:42 GMT+0000 (UTC)",
       "name": "Whitney Stewart",
@@ -182,7 +164,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/18.jpg",
-      "squad_id": 3,
       "country": "France",
       "last_played": "Wed Jul 29 2015 09:08:43 GMT+0000 (UTC)",
       "name": "Diana Wiley",
@@ -192,7 +173,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/19.jpg",
-      "squad_id": 1,
       "country": "Chad",
       "last_played": "Mon Feb 16 2015 10:07:48 GMT+0000 (UTC)",
       "name": "Carolyn Griffith",
@@ -202,7 +182,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/20.jpg",
-      "squad_id": 6,
       "country": "Tunisia",
       "last_played": "Sat May 23 2015 21:38:05 GMT+0000 (UTC)",
       "name": "Willie Dunn",
@@ -212,7 +191,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/21.jpg",
-      "squad_id": 0,
       "country": "Peru",
       "last_played": "Tue Jun 09 2015 18:52:36 GMT+0000 (UTC)",
       "name": "Hollie Sparks",
@@ -222,7 +200,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/22.jpg",
-      "squad_id": 0,
       "country": "Liberia",
       "last_played": "Mon Jul 20 2015 20:06:24 GMT+0000 (UTC)",
       "name": "Cooke Moore",
@@ -232,7 +209,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/23.jpg",
-      "squad_id": 1,
       "country": "Zambia",
       "last_played": "Tue Apr 21 2015 01:49:08 GMT+0000 (UTC)",
       "name": "Sweet Jordan",
@@ -242,7 +218,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/24.jpg",
-      "squad_id": 2,
       "country": "Zimbabwe",
       "last_played": "Sat Feb 21 2015 03:26:55 GMT+0000 (UTC)",
       "name": "Jacobs Sherman",
@@ -252,7 +227,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/25.jpg",
-      "squad_id": 5,
       "country": "Israel",
       "last_played": "Tue Feb 24 2015 06:43:22 GMT+0000 (UTC)",
       "name": "Good Wagner",
@@ -262,7 +236,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/26.jpg",
-      "squad_id": 1,
       "country": "Andorra",
       "last_played": "Mon Mar 30 2015 22:14:22 GMT+0000 (UTC)",
       "name": "Joy Stein",
@@ -272,7 +245,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/27.jpg",
-      "squad_id": 0,
       "country": "St. Helena",
       "last_played": "Mon May 04 2015 00:11:14 GMT+0000 (UTC)",
       "name": "Copeland Rodriquez",
@@ -282,7 +254,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/28.jpg",
-      "squad_id": 6,
       "country": "Kyrgyzstan",
       "last_played": "Sun Jul 19 2015 05:46:06 GMT+0000 (UTC)",
       "name": "Patterson James",
@@ -292,7 +263,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/29.jpg",
-      "squad_id": 1,
       "country": "Bangladesh",
       "last_played": "Sat Mar 07 2015 17:38:39 GMT+0000 (UTC)",
       "name": "Terrell Blackwell",
@@ -302,7 +272,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/30.jpg",
-      "squad_id": 9,
       "country": "Christmas Island",
       "last_played": "Fri Jan 30 2015 23:37:22 GMT+0000 (UTC)",
       "name": "Ines Russell",
@@ -312,7 +281,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/31.jpg",
-      "squad_id": 3,
       "country": "Bahamas",
       "last_played": "Mon Jan 19 2015 09:34:14 GMT+0000 (UTC)",
       "name": "Lawanda Maddox",
@@ -322,7 +290,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/32.jpg",
-      "squad_id": 6,
       "country": "Chile",
       "last_played": "Sun Feb 22 2015 10:06:32 GMT+0000 (UTC)",
       "name": "England Cobb",
@@ -332,7 +299,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/33.jpg",
-      "squad_id": 3,
       "country": "Ecuador",
       "last_played": "Thu Sep 10 2015 04:35:21 GMT+0000 (UTC)",
       "name": "Calderon Byrd",
@@ -342,7 +308,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/34.jpg",
-      "squad_id": 3,
       "country": "Western Sahara",
       "last_played": "Tue Jan 06 2015 12:14:02 GMT+0000 (UTC)",
       "name": "Sheryl Sexton",
@@ -352,7 +317,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/35.jpg",
-      "squad_id": 8,
       "country": "Iceland",
       "last_played": "Sun May 10 2015 03:06:43 GMT+0000 (UTC)",
       "name": "Loraine Stevenson",
@@ -362,7 +326,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/36.jpg",
-      "squad_id": 5,
       "country": "United Kingdom",
       "last_played": "Tue Feb 17 2015 06:57:52 GMT+0000 (UTC)",
       "name": "Rosa Sloan",
@@ -372,7 +335,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/37.jpg",
-      "squad_id": 8,
       "country": "Denmark",
       "last_played": "Mon Mar 23 2015 17:01:44 GMT+0000 (UTC)",
       "name": "Fitzgerald Gonzalez",
@@ -382,7 +344,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/38.jpg",
-      "squad_id": 3,
       "country": "Saint Vincent and The Grenadines",
       "last_played": "Sun May 10 2015 09:47:43 GMT+0000 (UTC)",
       "name": "Mercedes Whitehead",
@@ -392,7 +353,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/39.jpg",
-      "squad_id": 0,
       "country": "French Guiana",
       "last_played": "Fri Jun 12 2015 09:29:36 GMT+0000 (UTC)",
       "name": "Hyde Harris",
@@ -402,7 +362,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/40.jpg",
-      "squad_id": 7,
       "country": "French Polynesia",
       "last_played": "Sun May 03 2015 09:37:16 GMT+0000 (UTC)",
       "name": "Gail Holder",
@@ -412,7 +371,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/41.jpg",
-      "squad_id": 5,
       "country": "Lebanon",
       "last_played": "Sun May 24 2015 08:38:23 GMT+0000 (UTC)",
       "name": "Eva Weaver",
@@ -422,7 +380,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/42.jpg",
-      "squad_id": 4,
       "country": "Turks and Caicos Islands",
       "last_played": "Tue Apr 07 2015 14:47:17 GMT+0000 (UTC)",
       "name": "Lesley Carroll",
@@ -432,7 +389,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/43.jpg",
-      "squad_id": 3,
       "country": "Martinique",
       "last_played": "Fri Feb 20 2015 07:34:47 GMT+0000 (UTC)",
       "name": "Ratliff Avery",
@@ -442,7 +398,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/44.jpg",
-      "squad_id": 0,
       "country": "Guinea-Bissau",
       "last_played": "Sun Apr 19 2015 04:35:31 GMT+0000 (UTC)",
       "name": "Elinor Brennan",
@@ -452,7 +407,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/45.jpg",
-      "squad_id": 2,
       "country": "Cayman Islands",
       "last_played": "Thu Jan 29 2015 23:58:10 GMT+0000 (UTC)",
       "name": "Bridgett Lane",
@@ -462,7 +416,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/46.jpg",
-      "squad_id": 3,
       "country": "Virgin Islands (US)",
       "last_played": "Sat Jul 25 2015 14:18:26 GMT+0000 (UTC)",
       "name": "Callie Howell",
@@ -472,7 +425,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/47.jpg",
-      "squad_id": 3,
       "country": "Norway",
       "last_played": "Mon Jun 29 2015 04:48:11 GMT+0000 (UTC)",
       "name": "Kaufman Ferrell",
@@ -482,7 +434,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/48.jpg",
-      "squad_id": 7,
       "country": "Malaysia",
       "last_played": "Sat May 02 2015 21:09:21 GMT+0000 (UTC)",
       "name": "Golden Small",
@@ -492,7 +443,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/49.jpg",
-      "squad_id": 4,
       "country": "Iraq",
       "last_played": "Sun Jul 05 2015 12:21:24 GMT+0000 (UTC)",
       "name": "Figueroa Lucas",
@@ -502,7 +452,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/50.jpg",
-      "squad_id": 0,
       "country": "Yemen",
       "last_played": "Tue Sep 01 2015 07:53:58 GMT+0000 (UTC)",
       "name": "Gabriela King",
@@ -512,7 +461,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/51.jpg",
-      "squad_id": 4,
       "country": "Austria",
       "last_played": "Thu Jan 08 2015 21:40:15 GMT+0000 (UTC)",
       "name": "Hess Clayton",
@@ -522,7 +470,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/52.jpg",
-      "squad_id": 9,
       "country": "Belgium",
       "last_played": "Sat Jan 31 2015 22:00:03 GMT+0000 (UTC)",
       "name": "Glenn Thompson",
@@ -532,7 +479,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/53.jpg",
-      "squad_id": 4,
       "country": "Russian Federation",
       "last_played": "Fri Aug 14 2015 11:18:22 GMT+0000 (UTC)",
       "name": "Lorraine Bonner",
@@ -542,7 +488,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/54.jpg",
-      "squad_id": 9,
       "country": "Benin",
       "last_played": "Sun Jul 19 2015 21:25:30 GMT+0000 (UTC)",
       "name": "Corrine Haney",
@@ -552,7 +497,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/55.jpg",
-      "squad_id": 4,
       "country": "Maldives",
       "last_played": "Mon Jun 29 2015 12:23:32 GMT+0000 (UTC)",
       "name": "Beasley Grant",
@@ -562,7 +506,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/56.jpg",
-      "squad_id": 4,
       "country": "Ireland",
       "last_played": "Sun Mar 08 2015 06:50:01 GMT+0000 (UTC)",
       "name": "Mcfadden Mercer",
@@ -572,7 +515,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/57.jpg",
-      "squad_id": 0,
       "country": "Antigua and Barbuda",
       "last_played": "Sat Aug 01 2015 20:53:02 GMT+0000 (UTC)",
       "name": "Herrera Higgins",
@@ -582,7 +524,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/58.jpg",
-      "squad_id": 1,
       "country": "Germany",
       "last_played": "Mon Jan 19 2015 01:28:44 GMT+0000 (UTC)",
       "name": "Berta Jennings",
@@ -592,7 +533,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/59.jpg",
-      "squad_id": 7,
       "country": "Taiwan",
       "last_played": "Tue Jun 16 2015 17:16:03 GMT+0000 (UTC)",
       "name": "Allie Patrick",
@@ -602,7 +542,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/60.jpg",
-      "squad_id": 5,
       "country": "Guyana",
       "last_played": "Sun Mar 08 2015 12:41:13 GMT+0000 (UTC)",
       "name": "Cleo Sanchez",
@@ -612,7 +551,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/61.jpg",
-      "squad_id": 5,
       "country": "Armenia",
       "last_played": "Wed Aug 19 2015 01:58:25 GMT+0000 (UTC)",
       "name": "Potter Garrison",
@@ -622,7 +560,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/62.jpg",
-      "squad_id": 3,
       "country": "Vanuatu",
       "last_played": "Mon Jul 27 2015 00:53:37 GMT+0000 (UTC)",
       "name": "Knapp Stanley",
@@ -632,7 +569,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/63.jpg",
-      "squad_id": 4,
       "country": "Uzbekistan",
       "last_played": "Thu Feb 05 2015 14:32:46 GMT+0000 (UTC)",
       "name": "Barnett Ramirez",
@@ -642,7 +578,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/64.jpg",
-      "squad_id": 9,
       "country": "Costa Rica",
       "last_played": "Sat Jul 18 2015 21:23:33 GMT+0000 (UTC)",
       "name": "Dominguez Dean",
@@ -652,7 +587,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/65.jpg",
-      "squad_id": 1,
       "country": "Azerbaijan",
       "last_played": "Sat Apr 25 2015 17:32:13 GMT+0000 (UTC)",
       "name": "Juliana Erickson",
@@ -662,7 +596,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/66.jpg",
-      "squad_id": 5,
       "country": "Namibia",
       "last_played": "Tue Feb 10 2015 00:22:26 GMT+0000 (UTC)",
       "name": "Schmidt Banks",
@@ -672,7 +605,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/67.jpg",
-      "squad_id": 9,
       "country": "Mexico",
       "last_played": "Mon Sep 14 2015 21:27:15 GMT+0000 (UTC)",
       "name": "Kirby Slater",
@@ -682,7 +614,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/68.jpg",
-      "squad_id": 4,
       "country": "Niger",
       "last_played": "Sun May 31 2015 01:16:45 GMT+0000 (UTC)",
       "name": "Ethel Herrera",
@@ -692,7 +623,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/69.jpg",
-      "squad_id": 5,
       "country": "Argentina",
       "last_played": "Tue May 26 2015 04:52:43 GMT+0000 (UTC)",
       "name": "Johnson Eaton",
@@ -702,7 +632,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/70.jpg",
-      "squad_id": 7,
       "country": "British Indian Ocean Territory",
       "last_played": "Fri Mar 20 2015 19:42:21 GMT+0000 (UTC)",
       "name": "Salazar Roy",
@@ -712,7 +641,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/71.jpg",
-      "squad_id": 5,
       "country": "Australia",
       "last_played": "Thu Jan 15 2015 13:00:03 GMT+0000 (UTC)",
       "name": "Collins Lott",
@@ -722,7 +650,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/72.jpg",
-      "squad_id": 1,
       "country": "Nauru",
       "last_played": "Sun Apr 05 2015 10:44:48 GMT+0000 (UTC)",
       "name": "Mooney Reese",
@@ -732,7 +659,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/73.jpg",
-      "squad_id": 8,
       "country": "Malawi",
       "last_played": "Wed May 06 2015 14:15:51 GMT+0000 (UTC)",
       "name": "Sanders Bowers",
@@ -742,7 +668,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/74.jpg",
-      "squad_id": 0,
       "country": "Slovenia",
       "last_played": "Wed Feb 04 2015 19:43:23 GMT+0000 (UTC)",
       "name": "Bettye Newman",
@@ -752,7 +677,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/75.jpg",
-      "squad_id": 0,
       "country": "Vatican City State (Holy See)",
       "last_played": "Sun Sep 13 2015 20:39:10 GMT+0000 (UTC)",
       "name": "Ashlee Burks",
@@ -762,7 +686,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/76.jpg",
-      "squad_id": 1,
       "country": "Pakistan",
       "last_played": "Mon Mar 16 2015 01:25:59 GMT+0000 (UTC)",
       "name": "Flowers Merrill",
@@ -772,7 +695,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/77.jpg",
-      "squad_id": 1,
       "country": "Haiti",
       "last_played": "Wed Feb 18 2015 01:59:24 GMT+0000 (UTC)",
       "name": "Oconnor Baker",
@@ -782,7 +704,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/78.jpg",
-      "squad_id": 6,
       "country": "Mali",
       "last_played": "Thu Mar 19 2015 18:39:07 GMT+0000 (UTC)",
       "name": "Ware Pickett",
@@ -792,7 +713,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/79.jpg",
-      "squad_id": 0,
       "country": "American Samoa",
       "last_played": "Thu Jun 04 2015 07:14:28 GMT+0000 (UTC)",
       "name": "Mccullough Sosa",
@@ -802,7 +722,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/80.jpg",
-      "squad_id": 9,
       "country": "Iran",
       "last_played": "Fri Jun 26 2015 23:37:19 GMT+0000 (UTC)",
       "name": "Victoria Meyer",
@@ -812,7 +731,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/81.jpg",
-      "squad_id": 1,
       "country": "Mongolia",
       "last_played": "Fri Jun 05 2015 04:00:43 GMT+0000 (UTC)",
       "name": "Janell Villarreal",
@@ -822,7 +740,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/82.jpg",
-      "squad_id": 5,
       "country": "Laos",
       "last_played": "Mon Mar 09 2015 21:58:55 GMT+0000 (UTC)",
       "name": "Castro Reid",
@@ -832,7 +749,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/83.jpg",
-      "squad_id": 1,
       "country": "New Zealand",
       "last_played": "Sat Apr 25 2015 07:28:46 GMT+0000 (UTC)",
       "name": "Margie Kramer",
@@ -842,7 +758,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/84.jpg",
-      "squad_id": 3,
       "country": "Rwanda",
       "last_played": "Tue Apr 21 2015 13:43:20 GMT+0000 (UTC)",
       "name": "Clarice Shepherd",
@@ -852,7 +767,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/85.jpg",
-      "squad_id": 7,
       "country": "China",
       "last_played": "Sun Sep 06 2015 04:30:56 GMT+0000 (UTC)",
       "name": "Gonzalez Randolph",
@@ -862,7 +776,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/86.jpg",
-      "squad_id": 4,
       "country": "Zaire",
       "last_played": "Tue Aug 11 2015 16:47:07 GMT+0000 (UTC)",
       "name": "Garner Woods",
@@ -872,7 +785,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/87.jpg",
-      "squad_id": 1,
       "country": "Seychelles",
       "last_played": "Sun Jun 07 2015 10:08:59 GMT+0000 (UTC)",
       "name": "Solis Hancock",
@@ -882,7 +794,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/88.jpg",
-      "squad_id": 1,
       "country": "Monaco",
       "last_played": "Fri Jul 03 2015 20:41:16 GMT+0000 (UTC)",
       "name": "Tamara Waller",
@@ -892,7 +803,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/89.jpg",
-      "squad_id": 9,
       "country": "Hong Kong",
       "last_played": "Sat Apr 11 2015 04:39:39 GMT+0000 (UTC)",
       "name": "Atkins Walls",
@@ -902,7 +812,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/90.jpg",
-      "squad_id": 6,
       "country": "Jamaica",
       "last_played": "Sun May 03 2015 17:27:47 GMT+0000 (UTC)",
       "name": "Jessica Morton",
@@ -912,7 +821,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/91.jpg",
-      "squad_id": 9,
       "country": "Bolivia",
       "last_played": "Wed Feb 25 2015 08:44:41 GMT+0000 (UTC)",
       "name": "Kelly Rowland",
@@ -922,7 +830,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/92.jpg",
-      "squad_id": 9,
       "country": "Saudi Arabia",
       "last_played": "Thu Aug 13 2015 05:25:08 GMT+0000 (UTC)",
       "name": "Shawn Potter",
@@ -932,7 +839,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/93.jpg",
-      "squad_id": 1,
       "country": "Grenada",
       "last_played": "Fri May 15 2015 18:15:11 GMT+0000 (UTC)",
       "name": "Deirdre Lawson",
@@ -942,7 +848,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/94.jpg",
-      "squad_id": 2,
       "country": "Sierra Leone",
       "last_played": "Tue Feb 24 2015 01:43:12 GMT+0000 (UTC)",
       "name": "Mcintyre Peters",
@@ -952,7 +857,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/95.jpg",
-      "squad_id": 1,
       "country": "Algeria",
       "last_played": "Sat May 23 2015 09:13:02 GMT+0000 (UTC)",
       "name": "Francis Curtis",
@@ -962,7 +866,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/96.jpg",
-      "squad_id": 3,
       "country": "Mozambique",
       "last_played": "Wed Mar 04 2015 18:24:43 GMT+0000 (UTC)",
       "name": "Brianna Knapp",
@@ -972,7 +875,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/97.jpg",
-      "squad_id": 2,
       "country": "Bhutan",
       "last_played": "Sun Feb 08 2015 09:24:02 GMT+0000 (UTC)",
       "name": "Pennington Rollins",
@@ -982,7 +884,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/98.jpg",
-      "squad_id": 1,
       "country": "Bosnia and Herzegovina",
       "last_played": "Wed Feb 11 2015 03:44:32 GMT+0000 (UTC)",
       "name": "Cohen David",
@@ -992,7 +893,6 @@
     },
     {
       "avatar_url": "https://kitmanlabs.com/avatars/athletes/99.jpg",
-      "squad_id": 6,
       "country": "Mauritius",
       "last_played": "Thu Apr 23 2015 13:50:36 GMT+0000 (UTC)",
       "name": "Doris Andrews",
