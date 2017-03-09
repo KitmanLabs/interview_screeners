@@ -11,7 +11,7 @@ Once you've gone through this and sent us your unity project, we'll have someone
 - Create a well written & designed “Drag and Drop” rugby team creator in Unity
 
 # Detail
-- You are given a JSON file with the data for a full squad of ruby players each having one or more positions they can play in, but may be injured and so in ineligible to play.
+- You are given a JSON file with the data for a full squad of rugby players each having one or more positions they can play in, but may be injured and so in ineligible to play.
 - The JSON data will include Player names, Position(s) they can play, injury status, a Star Rating and an Avatar Image URL.
 - In Unity 5+ create a scrolling list UI with entries displaying the name of the players and an icon(s) for their positions (Icon image is provided).
 - From this scrolling list players should be addable to the on field team.
