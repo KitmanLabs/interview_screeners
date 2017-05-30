@@ -19,7 +19,7 @@ If you're based outside of Dublin, this stage will usually be done on Google Han
 ### Onsite Interviews
 If you are asked to come to our offices for a full series of interviews, here's what to expect.
 
-The onsite interview stage takes about 3 hours, involving 4 interviews of 45 minutes each. Every interviewer will be looking for something slightly different, but at a high level, it'll be something like this:
+The onsite interview stage takes about 2 hours, involving 4 interviews of 30 minutes each. Every interviewer will be looking for something different. At a high level, it will be something like this:
 
 - **Screener Review:** In this interview, the interviewer will go over your the code you submitted earlier in the process. They'll be asking you why you made certain decisions, what other approaches you could have taken etc. There'll probably be a certain amount of whiteboarding here, but not whole programs or anything like that.
 - **Previous Projects / System Design:** In this interview, the interviewer will be asking you questions about projects you've worked on in the past. How technical decisions were made, alternative approaches you could have taken etc.
