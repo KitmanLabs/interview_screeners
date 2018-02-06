@@ -1,4 +1,4 @@
-## Head of Data Science Task
+## Data Science Task
 This task is to explain the drivers of game injury risk in a data set.
 
 There are 3 files:
