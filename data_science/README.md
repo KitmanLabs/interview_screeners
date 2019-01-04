@@ -1,4 +1,4 @@
-## Head of Data Science Task
+## Data Science Task
 The head coach of a team is concerned with the number of injuries sustained by their players in games. This task is to explain the drivers of this injury risk in the given dataset.
 
 There are 3 files:
