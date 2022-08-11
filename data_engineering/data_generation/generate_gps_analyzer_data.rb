@@ -8,7 +8,7 @@ schema = {
   moving_time: :int32
 }
 
-start_date = Date.parse('2022-06-01')
+start_date = Date.parse('2022-06-02')
 
 data = [
   # Game Day
