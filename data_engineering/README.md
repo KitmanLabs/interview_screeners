@@ -26,10 +26,10 @@ Include whatever data you think would be useful for analysis in the ADT. However
 
 #### Part 1 - b
 
-Using your generated ADT, write some code to answer the following questions (please output the answers to a file and include this along side your code in your solution submissions):
+Using your generated ADT, write some code to answer the following questions (please output your calculated answers to each of the below questions to a file and include this along side your code in your solution submissions):
   
 - What was the average max heart rate for each athlete on days where the athlete participated in a training session?
-- Which athlete(s) accumulated the most moving time during games?
+- Which athlete(s) accumulated the most moving time across all games?
 
 ### Part 2
 
