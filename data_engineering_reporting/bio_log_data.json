@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "i0LSjNKEzmLWCFO0XIXh",
+    "date": "2022-06-01",
+    "max_hr": 180,
+    "min_hr": 53,
+    "avg_hr": 85,
+    "avg_resting_hr": 57,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "mUtqQUUPh9JCW8Fjmsg0",
+    "date": "2022-06-01",
+    "max_hr": 179,
+    "min_hr": 48,
+    "avg_hr": 79,
+    "avg_resting_hr": 59,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "yymIf9yVXgscTklE1wbW",
+    "date": "2022-06-01",
+    "max_hr": 181,
+    "min_hr": 48,
+    "avg_hr": 84,
+    "avg_resting_hr": 62,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "hBiLbMvazQBPtNnLnDsH",
+    "date": "2022-06-01",
+    "max_hr": 185,
+    "min_hr": 48,
+    "avg_hr": 77,
+    "avg_resting_hr": 60,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "cF0NVtKsRz9GLi0e17iY",
+    "date": "2022-06-01",
+    "max_hr": 184,
+    "min_hr": 51,
+    "avg_hr": 84,
+    "avg_resting_hr": 57,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "nPPfDWONc6jINGAetSuV",
+    "date": "2022-06-01",
+    "max_hr": 182,
+    "min_hr": 45,
+    "avg_hr": 75,
+    "avg_resting_hr": 55,
+    "weight": 82.95710258254661,
+    "body_fat": null
+  },
+  {
+    "id": "WTSmHFvZjpvrC8adLixQ",
+    "date": "2022-06-01",
+    "max_hr": 179,
+    "min_hr": 53,
+    "avg_hr": 80,
+    "avg_resting_hr": 56,
+    "weight": 80.81152324338606,
+    "body_fat": null
+  },
+  {
+    "id": "qPVETguwq3Q0a7ZeaQdW",
+    "date": "2022-06-01",
+    "max_hr": 180,
+    "min_hr": 49,
+    "avg_hr": 79,
+    "avg_resting_hr": 56,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "vSXKEJUROIRLUNKA55e5",
+    "date": "2022-06-01",
+    "max_hr": 177,
+    "min_hr": 45,
+    "avg_hr": 83,
+    "avg_resting_hr": 62,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "OVHFxFrvr79BwOwl6gBj",
+    "date": "2022-06-01",
+    "max_hr": 177,
+    "min_hr": 46,
+    "avg_hr": 83,
+    "avg_resting_hr": 59,
+    "weight": 84.42748958400826,
+    "body_fat": null
+  },
+  {
+    "id": "NqTxXnoe03xlfV5EopeR",
+    "date": "2022-06-01",
+    "max_hr": 177,
+    "min_hr": 53,
+    "avg_hr": 84,
+    "avg_resting_hr": 58,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "j4Cen7Sli7GNRtSHPUYG",
+    "date": "2022-06-01",
+    "max_hr": 185,
+    "min_hr": 46,
+    "avg_hr": 75,
+    "avg_resting_hr": 57,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "LiExYQwOno0gRdd5IrkW",
+    "date": "2022-06-01",
+    "max_hr": 185,
+    "min_hr": 53,
+    "avg_hr": 84,
+    "avg_resting_hr": 61,
+    "weight": 94.89615870011865,
+    "body_fat": null
+  },
+  {
+    "id": "PBgvIHupB9pXjdnJwIz5",
+    "date": "2022-06-01",
+    "max_hr": 177,
+    "min_hr": 45,
+    "avg_hr": 81,
+    "avg_resting_hr": 56,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "pJVizu6lSFZTZfa2jZLC",
+    "date": "2022-06-01",
+    "max_hr": 179,
+    "min_hr": 51,
+    "avg_hr": 84,
+    "avg_resting_hr": 57,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "i0LSjNKEzmLWCFO0XIXh",
+    "date": "2022-06-02",
+    "max_hr": 177,
+    "min_hr": 49,
+    "avg_hr": 86,
+    "avg_resting_hr": 57,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "mUtqQUUPh9JCW8Fjmsg0",
+    "date": "2022-06-02",
+    "max_hr": 172,
+    "min_hr": 50,
+    "avg_hr": 76,
+    "avg_resting_hr": 59,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "yymIf9yVXgscTklE1wbW",
+    "date": "2022-06-02",
+    "max_hr": 160,
+    "min_hr": 48,
+    "avg_hr": 80,
+    "avg_resting_hr": 57,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "hBiLbMvazQBPtNnLnDsH",
+    "date": "2022-06-02",
+    "max_hr": 163,
+    "min_hr": 49,
+    "avg_hr": 79,
+    "avg_resting_hr": 60,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "cF0NVtKsRz9GLi0e17iY",
+    "date": "2022-06-02",
+    "max_hr": 177,
+    "min_hr": 48,
+    "avg_hr": 81,
+    "avg_resting_hr": 56,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "nPPfDWONc6jINGAetSuV",
+    "date": "2022-06-02",
+    "max_hr": 172,
+    "min_hr": 45,
+    "avg_hr": 75,
+    "avg_resting_hr": 55,
+    "weight": 82.20897158746017,
+    "body_fat": null
+  },
+  {
+    "id": "WTSmHFvZjpvrC8adLixQ",
+    "date": "2022-06-02",
+    "max_hr": 163,
+    "min_hr": 45,
+    "avg_hr": 85,
+    "avg_resting_hr": 56,
+    "weight": 80.21323085051456,
+    "body_fat": null
+  },
+  {
+    "id": "qPVETguwq3Q0a7ZeaQdW",
+    "date": "2022-06-02",
+    "max_hr": 166,
+    "min_hr": 52,
+    "avg_hr": 74,
+    "avg_resting_hr": 55,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "vSXKEJUROIRLUNKA55e5",
+    "date": "2022-06-02",
+    "max_hr": 164,
+    "min_hr": 48,
+    "avg_hr": 84,
+    "avg_resting_hr": 61,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "OVHFxFrvr79BwOwl6gBj",
+    "date": "2022-06-02",
+    "max_hr": 167,
+    "min_hr": 44,
+    "avg_hr": 76,
+    "avg_resting_hr": 57,
+    "weight": 83.41037453196317,
+    "body_fat": null
+  },
+  {
+    "id": "NqTxXnoe03xlfV5EopeR",
+    "date": "2022-06-02",
+    "max_hr": 176,
+    "min_hr": 44,
+    "avg_hr": 75,
+    "avg_resting_hr": 58,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "j4Cen7Sli7GNRtSHPUYG",
+    "date": "2022-06-02",
+    "max_hr": 162,
+    "min_hr": 46,
+    "avg_hr": 80,
+    "avg_resting_hr": 58,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "LiExYQwOno0gRdd5IrkW",
+    "date": "2022-06-02",
+    "max_hr": 161,
+    "min_hr": 48,
+    "avg_hr": 84,
+    "avg_resting_hr": 58,
+    "weight": 95.55807049672116,
+    "body_fat": null
+  },
+  {
+    "id": "PBgvIHupB9pXjdnJwIz5",
+    "date": "2022-06-02",
+    "max_hr": 162,
+    "min_hr": 44,
+    "avg_hr": 74,
+    "avg_resting_hr": 58,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "pJVizu6lSFZTZfa2jZLC",
+    "date": "2022-06-02",
+    "max_hr": 168,
+    "min_hr": 44,
+    "avg_hr": 83,
+    "avg_resting_hr": 55,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "i0LSjNKEzmLWCFO0XIXh",
+    "date": "2022-06-03",
+    "max_hr": 173,
+    "min_hr": 50,
+    "avg_hr": 75,
+    "avg_resting_hr": 57,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "mUtqQUUPh9JCW8Fjmsg0",
+    "date": "2022-06-03",
+    "max_hr": 170,
+    "min_hr": 53,
+    "avg_hr": 85,
+    "avg_resting_hr": 62,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "yymIf9yVXgscTklE1wbW",
+    "date": "2022-06-03",
+    "max_hr": 176,
+    "min_hr": 53,
+    "avg_hr": 78,
+    "avg_resting_hr": 59,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "hBiLbMvazQBPtNnLnDsH",
+    "date": "2022-06-03",
+    "max_hr": 160,
+    "min_hr": 49,
+    "avg_hr": 86,
+    "avg_resting_hr": 59,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "cF0NVtKsRz9GLi0e17iY",
+    "date": "2022-06-03",
+    "max_hr": 163,
+    "min_hr": 51,
+    "avg_hr": 82,
+    "avg_resting_hr": 58,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "nPPfDWONc6jINGAetSuV",
+    "date": "2022-06-03",
+    "max_hr": 169,
+    "min_hr": 48,
+    "avg_hr": 79,
+    "avg_resting_hr": 55,
+    "weight": 83.41950959111774,
+    "body_fat": null
+  },
+  {
+    "id": "WTSmHFvZjpvrC8adLixQ",
+    "date": "2022-06-03",
+    "max_hr": 171,
+    "min_hr": 49,
+    "avg_hr": 77,
+    "avg_resting_hr": 56,
+    "weight": 79.0684968764149,
+    "body_fat": null
+  },
+  {
+    "id": "qPVETguwq3Q0a7ZeaQdW",
+    "date": "2022-06-03",
+    "max_hr": 175,
+    "min_hr": 52,
+    "avg_hr": 86,
+    "avg_resting_hr": 60,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "vSXKEJUROIRLUNKA55e5",
+    "date": "2022-06-03",
+    "max_hr": 177,
+    "min_hr": 46,
+    "avg_hr": 74,
+    "avg_resting_hr": 59,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "OVHFxFrvr79BwOwl6gBj",
+    "date": "2022-06-03",
+    "max_hr": 164,
+    "min_hr": 53,
+    "avg_hr": 83,
+    "avg_resting_hr": 61,
+    "weight": 83.44176121809375,
+    "body_fat": null
+  },
+  {
+    "id": "NqTxXnoe03xlfV5EopeR",
+    "date": "2022-06-03",
+    "max_hr": 175,
+    "min_hr": 51,
+    "avg_hr": 83,
+    "avg_resting_hr": 57,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "j4Cen7Sli7GNRtSHPUYG",
+    "date": "2022-06-03",
+    "max_hr": 170,
+    "min_hr": 44,
+    "avg_hr": 84,
+    "avg_resting_hr": 61,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "LiExYQwOno0gRdd5IrkW",
+    "date": "2022-06-03",
+    "max_hr": 165,
+    "min_hr": 46,
+    "avg_hr": 79,
+    "avg_resting_hr": 62,
+    "weight": 94.68701505153405,
+    "body_fat": null
+  },
+  {
+    "id": "PBgvIHupB9pXjdnJwIz5",
+    "date": "2022-06-03",
+    "max_hr": 172,
+    "min_hr": 46,
+    "avg_hr": 85,
+    "avg_resting_hr": 56,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "pJVizu6lSFZTZfa2jZLC",
+    "date": "2022-06-03",
+    "max_hr": 162,
+    "min_hr": 48,
+    "avg_hr": 85,
+    "avg_resting_hr": 60,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "i0LSjNKEzmLWCFO0XIXh",
+    "date": "2022-06-04",
+    "max_hr": 124,
+    "min_hr": 50,
+    "avg_hr": 60,
+    "avg_resting_hr": 49,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "mUtqQUUPh9JCW8Fjmsg0",
+    "date": "2022-06-04",
+    "max_hr": 126,
+    "min_hr": 45,
+    "avg_hr": 64,
+    "avg_resting_hr": 51,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "yymIf9yVXgscTklE1wbW",
+    "date": "2022-06-04",
+    "max_hr": 122,
+    "min_hr": 48,
+    "avg_hr": 69,
+    "avg_resting_hr": 50,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "hBiLbMvazQBPtNnLnDsH",
+    "date": "2022-06-04",
+    "max_hr": 130,
+    "min_hr": 42,
+    "avg_hr": 65,
+    "avg_resting_hr": 53,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "cF0NVtKsRz9GLi0e17iY",
+    "date": "2022-06-04",
+    "max_hr": 133,
+    "min_hr": 46,
+    "avg_hr": 70,
+    "avg_resting_hr": 49,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "nPPfDWONc6jINGAetSuV",
+    "date": "2022-06-04",
+    "max_hr": 133,
+    "min_hr": 40,
+    "avg_hr": 67,
+    "avg_resting_hr": 49,
+    "weight": 83.29876193985268,
+    "body_fat": null
+  },
+  {
+    "id": "WTSmHFvZjpvrC8adLixQ",
+    "date": "2022-06-04",
+    "max_hr": 128,
+    "min_hr": 43,
+    "avg_hr": 65,
+    "avg_resting_hr": 47,
+    "weight": 80.0937101018058,
+    "body_fat": null
+  },
+  {
+    "id": "qPVETguwq3Q0a7ZeaQdW",
+    "date": "2022-06-04",
+    "max_hr": 127,
+    "min_hr": 42,
+    "avg_hr": 67,
+    "avg_resting_hr": 54,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "vSXKEJUROIRLUNKA55e5",
+    "date": "2022-06-04",
+    "max_hr": 131,
+    "min_hr": 41,
+    "avg_hr": 70,
+    "avg_resting_hr": 48,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "OVHFxFrvr79BwOwl6gBj",
+    "date": "2022-06-04",
+    "max_hr": 128,
+    "min_hr": 50,
+    "avg_hr": 68,
+    "avg_resting_hr": 50,
+    "weight": 83.60196103497971,
+    "body_fat": null
+  },
+  {
+    "id": "NqTxXnoe03xlfV5EopeR",
+    "date": "2022-06-04",
+    "max_hr": 124,
+    "min_hr": 41,
+    "avg_hr": 70,
+    "avg_resting_hr": 54,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "j4Cen7Sli7GNRtSHPUYG",
+    "date": "2022-06-04",
+    "max_hr": 120,
+    "min_hr": 45,
+    "avg_hr": 62,
+    "avg_resting_hr": 51,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "LiExYQwOno0gRdd5IrkW",
+    "date": "2022-06-04",
+    "max_hr": 131,
+    "min_hr": 47,
+    "avg_hr": 68,
+    "avg_resting_hr": 52,
+    "weight": 95.86246775679855,
+    "body_fat": null
+  },
+  {
+    "id": "PBgvIHupB9pXjdnJwIz5",
+    "date": "2022-06-04",
+    "max_hr": 131,
+    "min_hr": 44,
+    "avg_hr": 71,
+    "avg_resting_hr": 50,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "pJVizu6lSFZTZfa2jZLC",
+    "date": "2022-06-04",
+    "max_hr": 122,
+    "min_hr": 45,
+    "avg_hr": 62,
+    "avg_resting_hr": 48,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "i0LSjNKEzmLWCFO0XIXh",
+    "date": "2022-06-05",
+    "max_hr": 174,
+    "min_hr": 50,
+    "avg_hr": 79,
+    "avg_resting_hr": 58,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "mUtqQUUPh9JCW8Fjmsg0",
+    "date": "2022-06-05",
+    "max_hr": 162,
+    "min_hr": 53,
+    "avg_hr": 80,
+    "avg_resting_hr": 61,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "yymIf9yVXgscTklE1wbW",
+    "date": "2022-06-05",
+    "max_hr": 161,
+    "min_hr": 46,
+    "avg_hr": 85,
+    "avg_resting_hr": 61,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "hBiLbMvazQBPtNnLnDsH",
+    "date": "2022-06-05",
+    "max_hr": 176,
+    "min_hr": 44,
+    "avg_hr": 84,
+    "avg_resting_hr": 62,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "cF0NVtKsRz9GLi0e17iY",
+    "date": "2022-06-05",
+    "max_hr": 177,
+    "min_hr": 48,
+    "avg_hr": 74,
+    "avg_resting_hr": 62,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "nPPfDWONc6jINGAetSuV",
+    "date": "2022-06-05",
+    "max_hr": 171,
+    "min_hr": 51,
+    "avg_hr": 85,
+    "avg_resting_hr": 56,
+    "weight": 82.8380729432968,
+    "body_fat": null
+  },
+  {
+    "id": "WTSmHFvZjpvrC8adLixQ",
+    "date": "2022-06-05",
+    "max_hr": 162,
+    "min_hr": 46,
+    "avg_hr": 82,
+    "avg_resting_hr": 61,
+    "weight": 81.01904668602855,
+    "body_fat": null
+  },
+  {
+    "id": "qPVETguwq3Q0a7ZeaQdW",
+    "date": "2022-06-05",
+    "max_hr": 163,
+    "min_hr": 53,
+    "avg_hr": 82,
+    "avg_resting_hr": 60,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "vSXKEJUROIRLUNKA55e5",
+    "date": "2022-06-05",
+    "max_hr": 172,
+    "min_hr": 50,
+    "avg_hr": 82,
+    "avg_resting_hr": 56,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "OVHFxFrvr79BwOwl6gBj",
+    "date": "2022-06-05",
+    "max_hr": 160,
+    "min_hr": 48,
+    "avg_hr": 79,
+    "avg_resting_hr": 57,
+    "weight": 84.23205510526422,
+    "body_fat": null
+  },
+  {
+    "id": "NqTxXnoe03xlfV5EopeR",
+    "date": "2022-06-05",
+    "max_hr": 162,
+    "min_hr": 47,
+    "avg_hr": 80,
+    "avg_resting_hr": 56,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "j4Cen7Sli7GNRtSHPUYG",
+    "date": "2022-06-05",
+    "max_hr": 176,
+    "min_hr": 51,
+    "avg_hr": 80,
+    "avg_resting_hr": 55,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "LiExYQwOno0gRdd5IrkW",
+    "date": "2022-06-05",
+    "max_hr": 172,
+    "min_hr": 45,
+    "avg_hr": 86,
+    "avg_resting_hr": 58,
+    "weight": 94.30586479736719,
+    "body_fat": null
+  },
+  {
+    "id": "PBgvIHupB9pXjdnJwIz5",
+    "date": "2022-06-05",
+    "max_hr": 167,
+    "min_hr": 49,
+    "avg_hr": 85,
+    "avg_resting_hr": 62,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "pJVizu6lSFZTZfa2jZLC",
+    "date": "2022-06-05",
+    "max_hr": 173,
+    "min_hr": 50,
+    "avg_hr": 75,
+    "avg_resting_hr": 55,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "i0LSjNKEzmLWCFO0XIXh",
+    "date": "2022-06-06",
+    "max_hr": 121,
+    "min_hr": 48,
+    "avg_hr": 66,
+    "avg_resting_hr": 45,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "mUtqQUUPh9JCW8Fjmsg0",
+    "date": "2022-06-06",
+    "max_hr": 132,
+    "min_hr": 40,
+    "avg_hr": 68,
+    "avg_resting_hr": 47,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "yymIf9yVXgscTklE1wbW",
+    "date": "2022-06-06",
+    "max_hr": 124,
+    "min_hr": 49,
+    "avg_hr": 64,
+    "avg_resting_hr": 46,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "hBiLbMvazQBPtNnLnDsH",
+    "date": "2022-06-06",
+    "max_hr": 120,
+    "min_hr": 45,
+    "avg_hr": 65,
+    "avg_resting_hr": 52,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "cF0NVtKsRz9GLi0e17iY",
+    "date": "2022-06-06",
+    "max_hr": 133,
+    "min_hr": 50,
+    "avg_hr": 71,
+    "avg_resting_hr": 55,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "nPPfDWONc6jINGAetSuV",
+    "date": "2022-06-06",
+    "max_hr": 133,
+    "min_hr": 49,
+    "avg_hr": 72,
+    "avg_resting_hr": 55,
+    "weight": 82.45229170146527,
+    "body_fat": null
+  },
+  {
+    "id": "WTSmHFvZjpvrC8adLixQ",
+    "date": "2022-06-06",
+    "max_hr": 122,
+    "min_hr": 40,
+    "avg_hr": 73,
+    "avg_resting_hr": 49,
+    "weight": 80.06398325442274,
+    "body_fat": null
+  },
+  {
+    "id": "qPVETguwq3Q0a7ZeaQdW",
+    "date": "2022-06-06",
+    "max_hr": 136,
+    "min_hr": 41,
+    "avg_hr": 75,
+    "avg_resting_hr": 45,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "vSXKEJUROIRLUNKA55e5",
+    "date": "2022-06-06",
+    "max_hr": 137,
+    "min_hr": 44,
+    "avg_hr": 75,
+    "avg_resting_hr": 51,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "OVHFxFrvr79BwOwl6gBj",
+    "date": "2022-06-06",
+    "max_hr": 139,
+    "min_hr": 47,
+    "avg_hr": 72,
+    "avg_resting_hr": 46,
+    "weight": 84.90696495028958,
+    "body_fat": null
+  },
+  {
+    "id": "NqTxXnoe03xlfV5EopeR",
+    "date": "2022-06-06",
+    "max_hr": 134,
+    "min_hr": 40,
+    "avg_hr": 68,
+    "avg_resting_hr": 54,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "j4Cen7Sli7GNRtSHPUYG",
+    "date": "2022-06-06",
+    "max_hr": 129,
+    "min_hr": 46,
+    "avg_hr": 68,
+    "avg_resting_hr": 54,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "LiExYQwOno0gRdd5IrkW",
+    "date": "2022-06-06",
+    "max_hr": 133,
+    "min_hr": 42,
+    "avg_hr": 75,
+    "avg_resting_hr": 53,
+    "weight": 93.55950430632224,
+    "body_fat": null
+  },
+  {
+    "id": "PBgvIHupB9pXjdnJwIz5",
+    "date": "2022-06-06",
+    "max_hr": 133,
+    "min_hr": 46,
+    "avg_hr": 67,
+    "avg_resting_hr": 53,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "pJVizu6lSFZTZfa2jZLC",
+    "date": "2022-06-06",
+    "max_hr": 133,
+    "min_hr": 42,
+    "avg_hr": 60,
+    "avg_resting_hr": 46,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "i0LSjNKEzmLWCFO0XIXh",
+    "date": "2022-06-07",
+    "max_hr": 122,
+    "min_hr": 50,
+    "avg_hr": 63,
+    "avg_resting_hr": 53,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "mUtqQUUPh9JCW8Fjmsg0",
+    "date": "2022-06-07",
+    "max_hr": 133,
+    "min_hr": 44,
+    "avg_hr": 66,
+    "avg_resting_hr": 51,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "yymIf9yVXgscTklE1wbW",
+    "date": "2022-06-07",
+    "max_hr": 120,
+    "min_hr": 50,
+    "avg_hr": 72,
+    "avg_resting_hr": 46,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "hBiLbMvazQBPtNnLnDsH",
+    "date": "2022-06-07",
+    "max_hr": 138,
+    "min_hr": 43,
+    "avg_hr": 74,
+    "avg_resting_hr": 50,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "cF0NVtKsRz9GLi0e17iY",
+    "date": "2022-06-07",
+    "max_hr": 134,
+    "min_hr": 50,
+    "avg_hr": 60,
+    "avg_resting_hr": 45,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "nPPfDWONc6jINGAetSuV",
+    "date": "2022-06-07",
+    "max_hr": 138,
+    "min_hr": 48,
+    "avg_hr": 65,
+    "avg_resting_hr": 55,
+    "weight": 82.89244882965326,
+    "body_fat": null
+  },
+  {
+    "id": "WTSmHFvZjpvrC8adLixQ",
+    "date": "2022-06-07",
+    "max_hr": 137,
+    "min_hr": 44,
+    "avg_hr": 70,
+    "avg_resting_hr": 46,
+    "weight": 79.77304038100998,
+    "body_fat": null
+  },
+  {
+    "id": "qPVETguwq3Q0a7ZeaQdW",
+    "date": "2022-06-07",
+    "max_hr": 127,
+    "min_hr": 46,
+    "avg_hr": 60,
+    "avg_resting_hr": 45,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "vSXKEJUROIRLUNKA55e5",
+    "date": "2022-06-07",
+    "max_hr": 127,
+    "min_hr": 49,
+    "avg_hr": 72,
+    "avg_resting_hr": 54,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "OVHFxFrvr79BwOwl6gBj",
+    "date": "2022-06-07",
+    "max_hr": 127,
+    "min_hr": 45,
+    "avg_hr": 74,
+    "avg_resting_hr": 46,
+    "weight": 84.26956235851927,
+    "body_fat": null
+  },
+  {
+    "id": "NqTxXnoe03xlfV5EopeR",
+    "date": "2022-06-07",
+    "max_hr": 138,
+    "min_hr": 41,
+    "avg_hr": 60,
+    "avg_resting_hr": 53,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "j4Cen7Sli7GNRtSHPUYG",
+    "date": "2022-06-07",
+    "max_hr": 126,
+    "min_hr": 40,
+    "avg_hr": 67,
+    "avg_resting_hr": 49,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "LiExYQwOno0gRdd5IrkW",
+    "date": "2022-06-07",
+    "max_hr": 140,
+    "min_hr": 48,
+    "avg_hr": 62,
+    "avg_resting_hr": 51,
+    "weight": 93.41926998375301,
+    "body_fat": null
+  },
+  {
+    "id": "PBgvIHupB9pXjdnJwIz5",
+    "date": "2022-06-07",
+    "max_hr": 139,
+    "min_hr": 41,
+    "avg_hr": 62,
+    "avg_resting_hr": 52,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "pJVizu6lSFZTZfa2jZLC",
+    "date": "2022-06-07",
+    "max_hr": 132,
+    "min_hr": 46,
+    "avg_hr": 64,
+    "avg_resting_hr": 49,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "i0LSjNKEzmLWCFO0XIXh",
+    "date": "2022-06-08",
+    "max_hr": 177,
+    "min_hr": 44,
+    "avg_hr": 75,
+    "avg_resting_hr": 58,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "mUtqQUUPh9JCW8Fjmsg0",
+    "date": "2022-06-08",
+    "max_hr": 185,
+    "min_hr": 47,
+    "avg_hr": 86,
+    "avg_resting_hr": 56,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "yymIf9yVXgscTklE1wbW",
+    "date": "2022-06-08",
+    "max_hr": 181,
+    "min_hr": 48,
+    "avg_hr": 83,
+    "avg_resting_hr": 57,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "hBiLbMvazQBPtNnLnDsH",
+    "date": "2022-06-08",
+    "max_hr": 181,
+    "min_hr": 53,
+    "avg_hr": 81,
+    "avg_resting_hr": 61,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "cF0NVtKsRz9GLi0e17iY",
+    "date": "2022-06-08",
+    "max_hr": 179,
+    "min_hr": 46,
+    "avg_hr": 79,
+    "avg_resting_hr": 57,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "nPPfDWONc6jINGAetSuV",
+    "date": "2022-06-08",
+    "max_hr": 185,
+    "min_hr": 53,
+    "avg_hr": 77,
+    "avg_resting_hr": 59,
+    "weight": 82.6082799450176,
+    "body_fat": null
+  },
+  {
+    "id": "WTSmHFvZjpvrC8adLixQ",
+    "date": "2022-06-08",
+    "max_hr": 178,
+    "min_hr": 53,
+    "avg_hr": 80,
+    "avg_resting_hr": 58,
+    "weight": 79.9737268296629,
+    "body_fat": null
+  },
+  {
+    "id": "qPVETguwq3Q0a7ZeaQdW",
+    "date": "2022-06-08",
+    "max_hr": 179,
+    "min_hr": 47,
+    "avg_hr": 86,
+    "avg_resting_hr": 56,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "vSXKEJUROIRLUNKA55e5",
+    "date": "2022-06-08",
+    "max_hr": 184,
+    "min_hr": 46,
+    "avg_hr": 79,
+    "avg_resting_hr": 59,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "OVHFxFrvr79BwOwl6gBj",
+    "date": "2022-06-08",
+    "max_hr": 184,
+    "min_hr": 53,
+    "avg_hr": 82,
+    "avg_resting_hr": 62,
+    "weight": 84.00300569462833,
+    "body_fat": null
+  },
+  {
+    "id": "NqTxXnoe03xlfV5EopeR",
+    "date": "2022-06-08",
+    "max_hr": 183,
+    "min_hr": 51,
+    "avg_hr": 75,
+    "avg_resting_hr": 61,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "j4Cen7Sli7GNRtSHPUYG",
+    "date": "2022-06-08",
+    "max_hr": 185,
+    "min_hr": 51,
+    "avg_hr": 78,
+    "avg_resting_hr": 56,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "LiExYQwOno0gRdd5IrkW",
+    "date": "2022-06-08",
+    "max_hr": 179,
+    "min_hr": 44,
+    "avg_hr": 78,
+    "avg_resting_hr": 62,
+    "weight": 94.60196593644709,
+    "body_fat": null
+  },
+  {
+    "id": "PBgvIHupB9pXjdnJwIz5",
+    "date": "2022-06-08",
+    "max_hr": 178,
+    "min_hr": 51,
+    "avg_hr": 80,
+    "avg_resting_hr": 59,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "pJVizu6lSFZTZfa2jZLC",
+    "date": "2022-06-08",
+    "max_hr": 184,
+    "min_hr": 50,
+    "avg_hr": 84,
+    "avg_resting_hr": 56,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "i0LSjNKEzmLWCFO0XIXh",
+    "date": "2022-06-09",
+    "max_hr": 126,
+    "min_hr": 47,
+    "avg_hr": 64,
+    "avg_resting_hr": 54,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "mUtqQUUPh9JCW8Fjmsg0",
+    "date": "2022-06-09",
+    "max_hr": 129,
+    "min_hr": 45,
+    "avg_hr": 64,
+    "avg_resting_hr": 46,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "yymIf9yVXgscTklE1wbW",
+    "date": "2022-06-09",
+    "max_hr": 135,
+    "min_hr": 43,
+    "avg_hr": 67,
+    "avg_resting_hr": 47,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "hBiLbMvazQBPtNnLnDsH",
+    "date": "2022-06-09",
+    "max_hr": 136,
+    "min_hr": 45,
+    "avg_hr": 73,
+    "avg_resting_hr": 50,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "cF0NVtKsRz9GLi0e17iY",
+    "date": "2022-06-09",
+    "max_hr": 134,
+    "min_hr": 43,
+    "avg_hr": 72,
+    "avg_resting_hr": 54,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "nPPfDWONc6jINGAetSuV",
+    "date": "2022-06-09",
+    "max_hr": 125,
+    "min_hr": 47,
+    "avg_hr": 65,
+    "avg_resting_hr": 52,
+    "weight": 82.34154651251794,
+    "body_fat": null
+  },
+  {
+    "id": "WTSmHFvZjpvrC8adLixQ",
+    "date": "2022-06-09",
+    "max_hr": 137,
+    "min_hr": 45,
+    "avg_hr": 73,
+    "avg_resting_hr": 46,
+    "weight": 78.9565248629018,
+    "body_fat": null
+  },
+  {
+    "id": "qPVETguwq3Q0a7ZeaQdW",
+    "date": "2022-06-09",
+    "max_hr": 128,
+    "min_hr": 48,
+    "avg_hr": 73,
+    "avg_resting_hr": 51,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "vSXKEJUROIRLUNKA55e5",
+    "date": "2022-06-09",
+    "max_hr": 124,
+    "min_hr": 44,
+    "avg_hr": 72,
+    "avg_resting_hr": 52,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "OVHFxFrvr79BwOwl6gBj",
+    "date": "2022-06-09",
+    "max_hr": 127,
+    "min_hr": 42,
+    "avg_hr": 68,
+    "avg_resting_hr": 50,
+    "weight": 84.08319191497168,
+    "body_fat": null
+  },
+  {
+    "id": "NqTxXnoe03xlfV5EopeR",
+    "date": "2022-06-09",
+    "max_hr": 127,
+    "min_hr": 41,
+    "avg_hr": 74,
+    "avg_resting_hr": 55,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "j4Cen7Sli7GNRtSHPUYG",
+    "date": "2022-06-09",
+    "max_hr": 133,
+    "min_hr": 44,
+    "avg_hr": 62,
+    "avg_resting_hr": 46,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "LiExYQwOno0gRdd5IrkW",
+    "date": "2022-06-09",
+    "max_hr": 126,
+    "min_hr": 46,
+    "avg_hr": 70,
+    "avg_resting_hr": 49,
+    "weight": 93.99953426672715,
+    "body_fat": null
+  },
+  {
+    "id": "PBgvIHupB9pXjdnJwIz5",
+    "date": "2022-06-09",
+    "max_hr": 125,
+    "min_hr": 40,
+    "avg_hr": 74,
+    "avg_resting_hr": 46,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "pJVizu6lSFZTZfa2jZLC",
+    "date": "2022-06-09",
+    "max_hr": 127,
+    "min_hr": 45,
+    "avg_hr": 67,
+    "avg_resting_hr": 54,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "i0LSjNKEzmLWCFO0XIXh",
+    "date": "2022-06-10",
+    "max_hr": 172,
+    "min_hr": 49,
+    "avg_hr": 82,
+    "avg_resting_hr": 62,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "mUtqQUUPh9JCW8Fjmsg0",
+    "date": "2022-06-10",
+    "max_hr": 175,
+    "min_hr": 53,
+    "avg_hr": 75,
+    "avg_resting_hr": 60,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "yymIf9yVXgscTklE1wbW",
+    "date": "2022-06-10",
+    "max_hr": 164,
+    "min_hr": 48,
+    "avg_hr": 74,
+    "avg_resting_hr": 57,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "hBiLbMvazQBPtNnLnDsH",
+    "date": "2022-06-10",
+    "max_hr": 175,
+    "min_hr": 45,
+    "avg_hr": 81,
+    "avg_resting_hr": 58,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "cF0NVtKsRz9GLi0e17iY",
+    "date": "2022-06-10",
+    "max_hr": 170,
+    "min_hr": 44,
+    "avg_hr": 83,
+    "avg_resting_hr": 57,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "nPPfDWONc6jINGAetSuV",
+    "date": "2022-06-10",
+    "max_hr": 175,
+    "min_hr": 52,
+    "avg_hr": 74,
+    "avg_resting_hr": 61,
+    "weight": 82.43022340187409,
+    "body_fat": null
+  },
+  {
+    "id": "WTSmHFvZjpvrC8adLixQ",
+    "date": "2022-06-10",
+    "max_hr": 165,
+    "min_hr": 45,
+    "avg_hr": 74,
+    "avg_resting_hr": 55,
+    "weight": 80.80515357513958,
+    "body_fat": null
+  },
+  {
+    "id": "qPVETguwq3Q0a7ZeaQdW",
+    "date": "2022-06-10",
+    "max_hr": 169,
+    "min_hr": 44,
+    "avg_hr": 85,
+    "avg_resting_hr": 60,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "vSXKEJUROIRLUNKA55e5",
+    "date": "2022-06-10",
+    "max_hr": 173,
+    "min_hr": 51,
+    "avg_hr": 86,
+    "avg_resting_hr": 58,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "OVHFxFrvr79BwOwl6gBj",
+    "date": "2022-06-10",
+    "max_hr": 168,
+    "min_hr": 49,
+    "avg_hr": 84,
+    "avg_resting_hr": 61,
+    "weight": 83.48298312168292,
+    "body_fat": null
+  },
+  {
+    "id": "NqTxXnoe03xlfV5EopeR",
+    "date": "2022-06-10",
+    "max_hr": 174,
+    "min_hr": 51,
+    "avg_hr": 80,
+    "avg_resting_hr": 62,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "j4Cen7Sli7GNRtSHPUYG",
+    "date": "2022-06-10",
+    "max_hr": 168,
+    "min_hr": 51,
+    "avg_hr": 75,
+    "avg_resting_hr": 56,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "LiExYQwOno0gRdd5IrkW",
+    "date": "2022-06-10",
+    "max_hr": 177,
+    "min_hr": 49,
+    "avg_hr": 75,
+    "avg_resting_hr": 58,
+    "weight": 96.16652552015603,
+    "body_fat": null
+  },
+  {
+    "id": "PBgvIHupB9pXjdnJwIz5",
+    "date": "2022-06-10",
+    "max_hr": 170,
+    "min_hr": 49,
+    "avg_hr": 74,
+    "avg_resting_hr": 56,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "pJVizu6lSFZTZfa2jZLC",
+    "date": "2022-06-10",
+    "max_hr": 174,
+    "min_hr": 53,
+    "avg_hr": 84,
+    "avg_resting_hr": 58,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "i0LSjNKEzmLWCFO0XIXh",
+    "date": "2022-06-11",
+    "max_hr": 165,
+    "min_hr": 46,
+    "avg_hr": 82,
+    "avg_resting_hr": 56,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "mUtqQUUPh9JCW8Fjmsg0",
+    "date": "2022-06-11",
+    "max_hr": 163,
+    "min_hr": 44,
+    "avg_hr": 74,
+    "avg_resting_hr": 59,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "yymIf9yVXgscTklE1wbW",
+    "date": "2022-06-11",
+    "max_hr": 169,
+    "min_hr": 44,
+    "avg_hr": 76,
+    "avg_resting_hr": 59,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "hBiLbMvazQBPtNnLnDsH",
+    "date": "2022-06-11",
+    "max_hr": 169,
+    "min_hr": 53,
+    "avg_hr": 77,
+    "avg_resting_hr": 61,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "cF0NVtKsRz9GLi0e17iY",
+    "date": "2022-06-11",
+    "max_hr": 165,
+    "min_hr": 47,
+    "avg_hr": 85,
+    "avg_resting_hr": 60,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "nPPfDWONc6jINGAetSuV",
+    "date": "2022-06-11",
+    "max_hr": 176,
+    "min_hr": 51,
+    "avg_hr": 85,
+    "avg_resting_hr": 56,
+    "weight": 82.69467749934003,
+    "body_fat": null
+  },
+  {
+    "id": "WTSmHFvZjpvrC8adLixQ",
+    "date": "2022-06-11",
+    "max_hr": 172,
+    "min_hr": 50,
+    "avg_hr": 75,
+    "avg_resting_hr": 57,
+    "weight": 79.50957490972365,
+    "body_fat": null
+  },
+  {
+    "id": "qPVETguwq3Q0a7ZeaQdW",
+    "date": "2022-06-11",
+    "max_hr": 165,
+    "min_hr": 50,
+    "avg_hr": 82,
+    "avg_resting_hr": 56,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "vSXKEJUROIRLUNKA55e5",
+    "date": "2022-06-11",
+    "max_hr": 164,
+    "min_hr": 49,
+    "avg_hr": 79,
+    "avg_resting_hr": 61,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "OVHFxFrvr79BwOwl6gBj",
+    "date": "2022-06-11",
+    "max_hr": 170,
+    "min_hr": 50,
+    "avg_hr": 77,
+    "avg_resting_hr": 62,
+    "weight": 83.9922488924557,
+    "body_fat": null
+  },
+  {
+    "id": "NqTxXnoe03xlfV5EopeR",
+    "date": "2022-06-11",
+    "max_hr": 167,
+    "min_hr": 50,
+    "avg_hr": 75,
+    "avg_resting_hr": 59,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "j4Cen7Sli7GNRtSHPUYG",
+    "date": "2022-06-11",
+    "max_hr": 169,
+    "min_hr": 44,
+    "avg_hr": 80,
+    "avg_resting_hr": 61,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "LiExYQwOno0gRdd5IrkW",
+    "date": "2022-06-11",
+    "max_hr": 173,
+    "min_hr": 45,
+    "avg_hr": 84,
+    "avg_resting_hr": 60,
+    "weight": 94.32849849685188,
+    "body_fat": null
+  },
+  {
+    "id": "PBgvIHupB9pXjdnJwIz5",
+    "date": "2022-06-11",
+    "max_hr": 171,
+    "min_hr": 45,
+    "avg_hr": 83,
+    "avg_resting_hr": 60,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "pJVizu6lSFZTZfa2jZLC",
+    "date": "2022-06-11",
+    "max_hr": 168,
+    "min_hr": 52,
+    "avg_hr": 86,
+    "avg_resting_hr": 57,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "i0LSjNKEzmLWCFO0XIXh",
+    "date": "2022-06-12",
+    "max_hr": 125,
+    "min_hr": 48,
+    "avg_hr": 70,
+    "avg_resting_hr": 50,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "mUtqQUUPh9JCW8Fjmsg0",
+    "date": "2022-06-12",
+    "max_hr": 131,
+    "min_hr": 45,
+    "avg_hr": 71,
+    "avg_resting_hr": 50,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "yymIf9yVXgscTklE1wbW",
+    "date": "2022-06-12",
+    "max_hr": 126,
+    "min_hr": 50,
+    "avg_hr": 65,
+    "avg_resting_hr": 47,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "hBiLbMvazQBPtNnLnDsH",
+    "date": "2022-06-12",
+    "max_hr": 140,
+    "min_hr": 46,
+    "avg_hr": 60,
+    "avg_resting_hr": 46,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "cF0NVtKsRz9GLi0e17iY",
+    "date": "2022-06-12",
+    "max_hr": 124,
+    "min_hr": 41,
+    "avg_hr": 72,
+    "avg_resting_hr": 48,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "nPPfDWONc6jINGAetSuV",
+    "date": "2022-06-12",
+    "max_hr": 140,
+    "min_hr": 48,
+    "avg_hr": 74,
+    "avg_resting_hr": 47,
+    "weight": 83.44660343355653,
+    "body_fat": null
+  },
+  {
+    "id": "WTSmHFvZjpvrC8adLixQ",
+    "date": "2022-06-12",
+    "max_hr": 136,
+    "min_hr": 48,
+    "avg_hr": 75,
+    "avg_resting_hr": 50,
+    "weight": 80.33770148209342,
+    "body_fat": null
+  },
+  {
+    "id": "qPVETguwq3Q0a7ZeaQdW",
+    "date": "2022-06-12",
+    "max_hr": 139,
+    "min_hr": 45,
+    "avg_hr": 65,
+    "avg_resting_hr": 51,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "vSXKEJUROIRLUNKA55e5",
+    "date": "2022-06-12",
+    "max_hr": 122,
+    "min_hr": 42,
+    "avg_hr": 75,
+    "avg_resting_hr": 48,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "OVHFxFrvr79BwOwl6gBj",
+    "date": "2022-06-12",
+    "max_hr": 139,
+    "min_hr": 50,
+    "avg_hr": 62,
+    "avg_resting_hr": 51,
+    "weight": 84.65565923252909,
+    "body_fat": null
+  },
+  {
+    "id": "NqTxXnoe03xlfV5EopeR",
+    "date": "2022-06-12",
+    "max_hr": 126,
+    "min_hr": 50,
+    "avg_hr": 69,
+    "avg_resting_hr": 52,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "j4Cen7Sli7GNRtSHPUYG",
+    "date": "2022-06-12",
+    "max_hr": 140,
+    "min_hr": 45,
+    "avg_hr": 74,
+    "avg_resting_hr": 54,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "LiExYQwOno0gRdd5IrkW",
+    "date": "2022-06-12",
+    "max_hr": 128,
+    "min_hr": 47,
+    "avg_hr": 69,
+    "avg_resting_hr": 48,
+    "weight": 95.07726942812307,
+    "body_fat": null
+  },
+  {
+    "id": "PBgvIHupB9pXjdnJwIz5",
+    "date": "2022-06-12",
+    "max_hr": 128,
+    "min_hr": 42,
+    "avg_hr": 69,
+    "avg_resting_hr": 47,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "pJVizu6lSFZTZfa2jZLC",
+    "date": "2022-06-12",
+    "max_hr": 128,
+    "min_hr": 45,
+    "avg_hr": 69,
+    "avg_resting_hr": 51,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "i0LSjNKEzmLWCFO0XIXh",
+    "date": "2022-06-13",
+    "max_hr": 136,
+    "min_hr": 44,
+    "avg_hr": 63,
+    "avg_resting_hr": 50,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "mUtqQUUPh9JCW8Fjmsg0",
+    "date": "2022-06-13",
+    "max_hr": 138,
+    "min_hr": 48,
+    "avg_hr": 66,
+    "avg_resting_hr": 45,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "yymIf9yVXgscTklE1wbW",
+    "date": "2022-06-13",
+    "max_hr": 122,
+    "min_hr": 41,
+    "avg_hr": 73,
+    "avg_resting_hr": 45,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "hBiLbMvazQBPtNnLnDsH",
+    "date": "2022-06-13",
+    "max_hr": 135,
+    "min_hr": 44,
+    "avg_hr": 65,
+    "avg_resting_hr": 53,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "cF0NVtKsRz9GLi0e17iY",
+    "date": "2022-06-13",
+    "max_hr": 126,
+    "min_hr": 50,
+    "avg_hr": 61,
+    "avg_resting_hr": 53,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "nPPfDWONc6jINGAetSuV",
+    "date": "2022-06-13",
+    "max_hr": 127,
+    "min_hr": 41,
+    "avg_hr": 63,
+    "avg_resting_hr": 46,
+    "weight": 83.4737012657057,
+    "body_fat": null
+  },
+  {
+    "id": "WTSmHFvZjpvrC8adLixQ",
+    "date": "2022-06-13",
+    "max_hr": 123,
+    "min_hr": 45,
+    "avg_hr": 74,
+    "avg_resting_hr": 49,
+    "weight": 78.88556289088692,
+    "body_fat": null
+  },
+  {
+    "id": "qPVETguwq3Q0a7ZeaQdW",
+    "date": "2022-06-13",
+    "max_hr": 122,
+    "min_hr": 50,
+    "avg_hr": 73,
+    "avg_resting_hr": 50,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "vSXKEJUROIRLUNKA55e5",
+    "date": "2022-06-13",
+    "max_hr": 132,
+    "min_hr": 48,
+    "avg_hr": 69,
+    "avg_resting_hr": 50,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "OVHFxFrvr79BwOwl6gBj",
+    "date": "2022-06-13",
+    "max_hr": 135,
+    "min_hr": 42,
+    "avg_hr": 68,
+    "avg_resting_hr": 51,
+    "weight": 84.47113799510933,
+    "body_fat": null
+  },
+  {
+    "id": "NqTxXnoe03xlfV5EopeR",
+    "date": "2022-06-13",
+    "max_hr": 140,
+    "min_hr": 41,
+    "avg_hr": 63,
+    "avg_resting_hr": 55,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "j4Cen7Sli7GNRtSHPUYG",
+    "date": "2022-06-13",
+    "max_hr": 131,
+    "min_hr": 43,
+    "avg_hr": 74,
+    "avg_resting_hr": 54,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "LiExYQwOno0gRdd5IrkW",
+    "date": "2022-06-13",
+    "max_hr": 135,
+    "min_hr": 41,
+    "avg_hr": 71,
+    "avg_resting_hr": 53,
+    "weight": 95.19915934985308,
+    "body_fat": null
+  },
+  {
+    "id": "PBgvIHupB9pXjdnJwIz5",
+    "date": "2022-06-13",
+    "max_hr": 120,
+    "min_hr": 42,
+    "avg_hr": 75,
+    "avg_resting_hr": 52,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "pJVizu6lSFZTZfa2jZLC",
+    "date": "2022-06-13",
+    "max_hr": 135,
+    "min_hr": 44,
+    "avg_hr": 68,
+    "avg_resting_hr": 47,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "i0LSjNKEzmLWCFO0XIXh",
+    "date": "2022-06-14",
+    "max_hr": 128,
+    "min_hr": 43,
+    "avg_hr": 72,
+    "avg_resting_hr": 45,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "mUtqQUUPh9JCW8Fjmsg0",
+    "date": "2022-06-14",
+    "max_hr": 132,
+    "min_hr": 44,
+    "avg_hr": 69,
+    "avg_resting_hr": 55,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "yymIf9yVXgscTklE1wbW",
+    "date": "2022-06-14",
+    "max_hr": 136,
+    "min_hr": 47,
+    "avg_hr": 72,
+    "avg_resting_hr": 49,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "hBiLbMvazQBPtNnLnDsH",
+    "date": "2022-06-14",
+    "max_hr": 122,
+    "min_hr": 44,
+    "avg_hr": 61,
+    "avg_resting_hr": 45,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "cF0NVtKsRz9GLi0e17iY",
+    "date": "2022-06-14",
+    "max_hr": 125,
+    "min_hr": 47,
+    "avg_hr": 75,
+    "avg_resting_hr": 54,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "nPPfDWONc6jINGAetSuV",
+    "date": "2022-06-14",
+    "max_hr": 124,
+    "min_hr": 46,
+    "avg_hr": 72,
+    "avg_resting_hr": 52,
+    "weight": 83.17120958085023,
+    "body_fat": null
+  },
+  {
+    "id": "WTSmHFvZjpvrC8adLixQ",
+    "date": "2022-06-14",
+    "max_hr": 129,
+    "min_hr": 50,
+    "avg_hr": 70,
+    "avg_resting_hr": 54,
+    "weight": 80.84806018996464,
+    "body_fat": null
+  },
+  {
+    "id": "qPVETguwq3Q0a7ZeaQdW",
+    "date": "2022-06-14",
+    "max_hr": 136,
+    "min_hr": 48,
+    "avg_hr": 71,
+    "avg_resting_hr": 50,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "vSXKEJUROIRLUNKA55e5",
+    "date": "2022-06-14",
+    "max_hr": 129,
+    "min_hr": 45,
+    "avg_hr": 60,
+    "avg_resting_hr": 49,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "OVHFxFrvr79BwOwl6gBj",
+    "date": "2022-06-14",
+    "max_hr": 136,
+    "min_hr": 47,
+    "avg_hr": 65,
+    "avg_resting_hr": 51,
+    "weight": 84.65817539417857,
+    "body_fat": null
+  },
+  {
+    "id": "NqTxXnoe03xlfV5EopeR",
+    "date": "2022-06-14",
+    "max_hr": 124,
+    "min_hr": 49,
+    "avg_hr": 67,
+    "avg_resting_hr": 54,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "j4Cen7Sli7GNRtSHPUYG",
+    "date": "2022-06-14",
+    "max_hr": 139,
+    "min_hr": 41,
+    "avg_hr": 67,
+    "avg_resting_hr": 49,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "LiExYQwOno0gRdd5IrkW",
+    "date": "2022-06-14",
+    "max_hr": 140,
+    "min_hr": 40,
+    "avg_hr": 65,
+    "avg_resting_hr": 47,
+    "weight": 95.27927300601152,
+    "body_fat": null
+  },
+  {
+    "id": "PBgvIHupB9pXjdnJwIz5",
+    "date": "2022-06-14",
+    "max_hr": 135,
+    "min_hr": 50,
+    "avg_hr": 75,
+    "avg_resting_hr": 47,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "pJVizu6lSFZTZfa2jZLC",
+    "date": "2022-06-14",
+    "max_hr": 139,
+    "min_hr": 48,
+    "avg_hr": 68,
+    "avg_resting_hr": 54,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "i0LSjNKEzmLWCFO0XIXh",
+    "date": "2022-06-15",
+    "max_hr": 133,
+    "min_hr": 49,
+    "avg_hr": 70,
+    "avg_resting_hr": 53,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "mUtqQUUPh9JCW8Fjmsg0",
+    "date": "2022-06-15",
+    "max_hr": 140,
+    "min_hr": 45,
+    "avg_hr": 67,
+    "avg_resting_hr": 51,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "yymIf9yVXgscTklE1wbW",
+    "date": "2022-06-15",
+    "max_hr": 135,
+    "min_hr": 42,
+    "avg_hr": 62,
+    "avg_resting_hr": 45,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "hBiLbMvazQBPtNnLnDsH",
+    "date": "2022-06-15",
+    "max_hr": 120,
+    "min_hr": 41,
+    "avg_hr": 67,
+    "avg_resting_hr": 52,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "cF0NVtKsRz9GLi0e17iY",
+    "date": "2022-06-15",
+    "max_hr": 130,
+    "min_hr": 50,
+    "avg_hr": 71,
+    "avg_resting_hr": 52,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "nPPfDWONc6jINGAetSuV",
+    "date": "2022-06-15",
+    "max_hr": 125,
+    "min_hr": 42,
+    "avg_hr": 68,
+    "avg_resting_hr": 48,
+    "weight": 83.10502706667096,
+    "body_fat": null
+  },
+  {
+    "id": "WTSmHFvZjpvrC8adLixQ",
+    "date": "2022-06-15",
+    "max_hr": 126,
+    "min_hr": 42,
+    "avg_hr": 63,
+    "avg_resting_hr": 46,
+    "weight": 80.0239650584355,
+    "body_fat": null
+  },
+  {
+    "id": "qPVETguwq3Q0a7ZeaQdW",
+    "date": "2022-06-15",
+    "max_hr": 134,
+    "min_hr": 41,
+    "avg_hr": 70,
+    "avg_resting_hr": 55,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "vSXKEJUROIRLUNKA55e5",
+    "date": "2022-06-15",
+    "max_hr": 120,
+    "min_hr": 40,
+    "avg_hr": 60,
+    "avg_resting_hr": 51,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "OVHFxFrvr79BwOwl6gBj",
+    "date": "2022-06-15",
+    "max_hr": 121,
+    "min_hr": 50,
+    "avg_hr": 65,
+    "avg_resting_hr": 51,
+    "weight": 84.08438949066888,
+    "body_fat": null
+  },
+  {
+    "id": "NqTxXnoe03xlfV5EopeR",
+    "date": "2022-06-15",
+    "max_hr": 137,
+    "min_hr": 40,
+    "avg_hr": 66,
+    "avg_resting_hr": 45,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "j4Cen7Sli7GNRtSHPUYG",
+    "date": "2022-06-15",
+    "max_hr": 137,
+    "min_hr": 43,
+    "avg_hr": 65,
+    "avg_resting_hr": 47,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "LiExYQwOno0gRdd5IrkW",
+    "date": "2022-06-15",
+    "max_hr": 127,
+    "min_hr": 41,
+    "avg_hr": 73,
+    "avg_resting_hr": 45,
+    "weight": 93.7720902489486,
+    "body_fat": null
+  },
+  {
+    "id": "PBgvIHupB9pXjdnJwIz5",
+    "date": "2022-06-15",
+    "max_hr": 126,
+    "min_hr": 46,
+    "avg_hr": 64,
+    "avg_resting_hr": 51,
+    "weight": null,
+    "body_fat": null
+  },
+  {
+    "id": "pJVizu6lSFZTZfa2jZLC",
+    "date": "2022-06-15",
+    "max_hr": 131,
+    "min_hr": 44,
+    "avg_hr": 61,
+    "avg_resting_hr": 54,
+    "weight": null,
+    "body_fat": null
+  }
+]
