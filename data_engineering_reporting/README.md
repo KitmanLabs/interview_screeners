@@ -1,10 +1,10 @@
 # Data Engineering Task
 
-Welcome to the Kitman Labs Data Engineering - Reporting take home test. Find your task below. Also find attached below the task description a data dictionary that you can use as a reference as your progress through the task. Have fun!
+Welcome to the Kitman Labs Data Engineering - Reporting take home test. Find your task below. Also find attached below the task description a data dictionary that you can use as a reference as you progress through the task. Have fun!
 
 ## Task Description
 
-Your task is split into two part detailed below. To complete this task, you can use any language you feel comfortable with. The outputs of each task are going to be some data files with values in them. Your solution should contain your code, instructions for building & running it, as well as the output files. You are not required to write unit tests (you can if you want). However, please ensure your code is well structured and easy to read/understand.
+Your task is split into two parts detailed below. To complete this task, you can use any language you feel comfortable with. The outputs of each task are going to be some data files with values in them. Your solution should contain your code, instructions for building & running it, as well as the output files. You are not required to write unit tests (you can if you want). However, please ensure your code is well structured and easy to read/understand.
 
 ### Part 1
 
@@ -100,7 +100,7 @@ This is a list of all athletes in the system. This is the source of truth for at
 
 `bio_log_data.json`
 
-Biometric data collected daily from athletes via the thirdparty vendor "Bio Log" know in our system as `bio_log`.
+Biometric data collected daily from athletes via the thirdparty vendor "Bio Log" n our system as `bio_log`.
 
 | field | data_type |
 | --- | --- |
